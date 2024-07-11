@@ -1,0 +1,299 @@
+.bagroundimage{
+    width: 100%;
+    height: 100vh;
+    margin-top: 0%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('/mdh2_12.jpg');
+    transition: transform 2s ease-in-out;
+    position: absolute;
+    top: 0;
+    left: 0;
+  
+  }
+  .zoomContainer {
+    position: relative;
+    overflow: hidden;
+    width: 97.9vw;
+    height: 100vh;
+  }
+  @media (max-width: 768px) {
+    .zoomContainer {
+      width: 95vw;
+    
+    }
+   }
+  
+  @media (max-width: 768px) {
+    .bagroundimage {
+  
+       background-attachment: fixed;
+    }
+   }
+   .header{
+    position: relative;
+    width: 99%;
+    height: 86px; 
+ } 
+  @media (max-width: 768px ) {
+   .header {
+      width: 99%;
+   }
+  }
+ 
+  @media (min-width: 769px) {
+   .header {
+     width: 99%;
+   }
+  }
+  
+ 
+ 
+ .bar1{
+    height: 30px;
+    width: 99%;
+    position: fixed;
+    color: white;
+    text-align: center;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:  rgb(42 39 37 / 70%);
+    box-shadow: 0px 0px 4px rgb(255 214 131);
+    
+ }
+ 
+ @media (max-width: 768px) {
+   .bar1 {
+      width: 98%;
+   }
+  }
+ 
+ 
+ 
+ 
+ .left{
+    flex-basis: 60%;
+    text-align: left;
+    text-decoration: none;
+    margin-top: 7px;
+    font-size: 14px;
+    
+    
+ }
+ 
+ @media (max-width: 768px) {
+   .left {
+      font-size: 11.7px;
+   }
+  }
+  
+  @media (min-width: 769px) {
+   .left {
+      font-size: 14px;
+   }
+  }
+ 
+ 
+ .icon{
+   margin-left: 15px;
+ }
+ @media (max-width: 768px) {
+   .icon {
+       margin-left: 5px;
+   }
+  }
+ 
+ .right {
+   margin-top: 7px;
+   text-decoration: none;
+   color: rgb(250, 246, 246);
+   font-size: 14px; 
+ }
+ 
+ .links{
+   text-decoration: none;
+   color: white;
+   font-size: 14px;
+ }
+ @media (max-width: 768px) {
+   .links {
+      font-size: 11.7px;
+   }
+  }
+ .links:hover{
+   font-weight: lighter;
+ }
+ .logtext{
+   margin-left: 5px;
+   margin-right: 5px;
+   font-size: 14px; 
+ }
+ 
+ 
+ .bar2{
+   height: 60px;
+   width: 100%;
+   margin-top:6px;
+   position: relative;
+   color: white;
+   text-align: center;
+   justify-content: space-around;
+   display: flex;
+   flex-wrap: wrap;
+   /* border-top: 1px solid #444; */
+   background-color: rgb(42 39 37 / 70%);
+ }
+ 
+ @media (max-width: 768px) {
+   .bar2 {
+     
+      width: 98%;
+      margin-top: 1%;
+   
+   }
+  }
+ 
+ 
+ 
+ 
+ .nav2left{
+   height: 70px;
+   margin-top: 24px;
+   font-size: 14px;
+   margin-left: -4%;
+  
+ }
+ @media (max-width: 768px) {
+   .nav2left {
+     margin-right: -10%;
+   }
+  }
+ 
+ .navpages{
+   height: 70px;
+   margin-top: 22px;
+   text-decoration: none;
+   color: white;  
+   margin-right: -4%;
+ }
+ .pagelinkss{
+   margin-left: 35px;
+   color: white;
+   text-decoration: none;
+   position: relative;
+   font-size: 14px;
+ }
+ 
+   .pagelinkss:after{
+   content: '';
+   position: absolute;
+   bottom: -10px;
+   left: 0;
+   width: 100%;
+   height: 2px;
+   background-color:rgb(216, 183, 121);
+   transform: scaleX(0);
+   transform-origin: left;
+   transition: all 0.5s;
+   }
+ 
+   .pagelinkss:hover:after{
+      transform: scalex(1);
+      }
+ 
+ 
+ .butttoggle{
+   margin-left: -97px;
+ }
+ @media (max-width: 768px) {
+   .butttoggle {
+     margin-left: -259%;
+    
+   }  
+ }
+ 
+ .togbutt {
+   width: 25px;
+   height: 3px;
+   left: -10px;
+   text-align: left;
+   background-color: #fff;
+   margin: 4px ;
+ }
+ 
+ .navpages {
+   display: flex;
+   list-style: none;
+   margin-top: 10px;
+   text-decoration: none;
+   color: white;
+ }
+ 
+ .burger {
+   margin-top: 18px;
+   display: none;
+   cursor: pointer;
+ 
+ }
+ 
+ @media (max-width: 768px) {
+   .closebtn {
+      position: absolute;
+      text-decoration: none;
+      top: 16px;
+      right: 25px;
+      color: white;
+      font-size: 30px;
+      margin-left: 50px;
+  }
+  }
+  
+ @media (min-width: 769px) {
+   .closebtn {
+     display: none;
+  }
+  } 
+ 
+ 
+ @media screen and (max-width: 1024px) {
+ 
+  .navpages {
+        height: 99vh; 
+        width: 250px; 
+        position: absolute;
+        top: -39px;
+        left: 0px;
+        background-color: rgba(43, 41, 41, 0.989);
+        text-align: center;
+        display: none;
+   }
+   .linkpages{
+     margin-top: 16%;
+ 
+   } 
+   
+  .pagelinkss {
+        display: block;
+        text-align: center;
+   }
+ 
+   .burger {
+        display: block;
+    }
+  }
+ 
+  @media (max-width: 768px) {
+   .pagelinkss {
+     margin-top: 34%;
+    margin-left: 35px;
+   }
+  }
+  
+ /* @media (min-width: 769px) {
+   .pagelinkss {
+     margin-top: 15px;
+     margin-left: 75px;
+   }
+  }  */

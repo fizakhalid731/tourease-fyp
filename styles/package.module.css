@@ -1,0 +1,382 @@
+
+   .links{
+    text-decoration: none;
+   }
+   .header2{
+    font-size: 14px;
+    margin-top:4%;
+  }
+  @media (max-width: 768px) {
+    .header2 {
+      width: 400px;
+      font-size: 11px;
+      margin-top: 4%;
+    }
+   }
+  .icon{
+    margin-left: 39%;
+    color: rgb(137, 97, 48);
+    
+  }
+  .icon:hover{
+    color: rgb(77, 52, 21);
+    
+  }
+  @media (max-width: 768px) {
+    .icon {
+      margin-left: 35%;
+    }
+   }
+  .icon1{
+    margin-left: 55%;
+    color: rgb(137, 97, 48);
+    margin-top: -3.7%;
+  }
+  .icon1:hover{
+    color: rgb(77, 52, 21);
+    
+  }
+  @media (max-width: 768px) {
+    .icon1 {
+      margin-left: 69%;
+      margin-top: -12.7%;
+    }
+   }
+  
+  .icontext{
+    color: rgb(137, 97, 48);
+    margin-left: -4%;
+    
+  }
+  @media (max-width: 768px) {
+    .icontext{
+      margin-left: -11%;
+      
+    }
+   }
+  .icontext1{
+    color: rgb(137, 97, 48);
+    margin-left: -6%;
+    
+  }
+  @media (max-width: 768px) {
+    .icontext1{
+      margin-left: -19%;
+      
+    }
+   }
+  .hotellist1{
+    width: 100%;
+    height: 345px;
+    display: inline;
+   
+  }
+  
+  .hotel1{
+    margin-top: 5%;
+    margin-left: 11%;
+    width: 280px;
+    height: 345px;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 31px;
+    background-color: rgb(197 202 203 / 38%);
+    
+    
+  }
+
+  .hotel1:hover{
+    transform: scale(1.1);
+    background-color: rgb(203, 199, 199);
+     
+    
+  }
+
+@media (max-width: 768px) {
+  .hotel1 {
+    width: 200px;
+    font-size: 11px;
+    margin-top: 9%;
+    margin-left: 5%;
+}
+}
+
+
+  .hotel1img{
+    width: 280px;
+    height: 300px;
+    border-radius: 32px;
+    
+  }
+  @media (max-width: 768px) {
+    .hotel1img {
+      width: 200px;
+    }
+   }
+.h1name{
+  margin-left: 20px;
+  font-weight: bold;
+
+}
+.h1icon{
+  margin-left: 5px;
+ color: black;
+  
+
+}
+
+.hotel2{
+    margin-top: -23.3%;
+    margin-left: 41%;
+    width: 280px;
+    height: 345px;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 31px;
+    background-color: rgb(197 202 203 / 38%);
+    
+  }
+  
+@media (max-width: 768px) {
+  .hotel2 {
+    width: 200px;
+    font-size: 11px;
+    margin-top: -74%;
+    margin-left: 55%;
+  }
+ }
+ 
+  
+.hotel2:hover{
+    transform: scale(1.1);
+    background-color: rgb(203, 199, 199);
+    
+  }
+  .h2name{
+    margin-left: 10px;
+    font-weight: bold;
+  
+  }
+
+  .hotel3{
+    margin-top: -23.3%;
+    margin-left: 71%;
+    width: 280px;
+    height: 345px;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 31px;
+    background-color: rgb(197 202 203 / 38%);
+  }
+  @media (max-width: 768px) {
+    .hotel3 {
+      width: 200px;
+      font-size: 11px;
+      margin-top: 9%;
+      margin-left: 5%;
+  }
+  }
+  .hotel3:hover{
+    transform: scale(1.1);
+    background-color: rgb(203, 199, 199);
+    
+  }
+  .h3name{
+    margin-left: 35px;
+    font-weight: bold;
+  
+  }
+  .h4name{
+    margin-left: 50px;
+    font-weight: bold;
+  
+  }
+  .h5name{
+    margin-left: 10px;
+    font-weight: bold;
+  
+  }
+  .h6name{
+    margin-left: 32px;
+    font-weight: bold;
+  
+   
+  
+  }
+  .h6textname{
+    margin-left: 58px;
+    font-weight: bold;
+ 
+  }
+  .h7name{
+    margin-left: 10px;
+    font-weight: bold;
+  
+  }
+  .h8name{
+    margin-left: 54px;
+    font-weight: bold;
+  
+  }
+  .h9name{
+    margin-left: 20px;
+    font-weight: bold;
+  
+  }
+
+  
+  .hotel4{
+    margin-top: 5%;
+    margin-left: 11%;
+    width: 280px;
+    height: 345px;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 31px;
+    background-color: rgb(197 202 203 / 38%);
+    
+    
+  }
+  @media (max-width: 768px) {
+    .hotel4 {
+      width: 200px;
+      font-size: 11px;
+      margin-top: -74%;
+      margin-left: 55%;
+    }
+   }
+  .hotel4:hover{
+    transform: scale(1.1);
+    background-color: rgb(203, 199, 199);
+     
+    
+  }
+  
+  .hotel5{
+    margin-top: -23.3%;
+    margin-left: 41%;
+    width: 280px;
+    height: 345px;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 31px;
+    background-color: rgb(197 202 203 / 38%);
+    
+  }
+  
+  @media (max-width: 768px) {
+    .hotel5 {
+      width: 200px;
+      font-size: 11px;
+      margin-top: 9%;
+      margin-left: 5%;
+  }
+  }
+  .hotel5:hover{
+    transform: scale(1.1);
+    background-color: rgb(203, 199, 199);
+    
+  }
+  .hotel6{
+    margin-top: -23.3%;
+    margin-left: 71%;
+    width: 280px;
+    height: 345px;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 31px;
+    background-color: rgb(197 202 203 / 38%);
+  }
+
+  @media (max-width: 768px) {
+    .hotel6 {
+      width: 200px;
+      font-size: 11px;
+      margin-top: -74%;
+      margin-left: 55%;
+    }
+   }
+  .hotel6:hover{
+    transform: scale(1.1);
+    background-color: rgb(203, 199, 199);
+    
+  }
+
+
+  .hotel7{
+    margin-top: 5%;
+    margin-left: 27%;
+    width: 280px;
+    height: 345px;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 31px;
+    background-color: rgb(197 202 203 / 38%);
+    
+    
+  }
+
+  @media (max-width: 768px) {
+    .hotel7 {
+      width: 200px;
+      font-size: 11px;
+      margin-top: 9%;
+      margin-left: 5%;
+  }
+  }
+
+  .hotel7:hover{
+    transform: scale(1.1);
+    background-color: rgb(203, 199, 199);
+     
+    
+  }
+  
+  .hotel8{
+    margin-top: -23.3%;
+    margin-left: 56%;
+    width: 280px;
+    height: 345px;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 31px;
+    background-color: rgb(197 202 203 / 38%);
+    
+  }
+  
+  @media (max-width: 768px) {
+    .hotel8 {
+      width: 200px;
+      font-size: 11px;
+      margin-top: -74%;
+      margin-left: 55%;
+    }
+   }
+  .hotel8:hover{
+    transform: scale(1.1);
+    background-color: rgb(203, 199, 199);
+    
+  }
+  .hotel9{
+    margin-top: -23.3%;
+    margin-left: 71%;
+    width: 280px;
+    height: 345px;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 31px;
+    background-color: rgb(197 202 203 / 38%);
+  }
+
+
+  @media (max-width: 768px) {
+    .hotel9 {
+      width: 200px;
+      font-size: 11px;
+      margin-top: 9%;
+      margin-left: 29%;
+  }
+  }
+  .hotel9:hover{
+    transform: scale(1.1);
+    background-color: rgb(203, 199, 199);
+    
+  }
+
+
+
+  

@@ -1,0 +1,23 @@
+/* weather */
+.weather{
+    background-color: rgba(248, 247, 247, 0.902);
+    /* color: white; */
+    width: 200px;
+    margin-top: -20%;
+    margin-left: 75%;
+    position: relative;
+   
+ 
+}
+@media (max-width: 768px) {
+  .weather{
+    margin-top: -50%;
+    margin-left: 51%;
+    width: 200px;    
+  }
+ }
+.weathertext{
+  margin-top: 2%;
+  position: absolute;
+  font-weight: bold;
+}

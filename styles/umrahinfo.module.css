@@ -1,0 +1,338 @@
+
+  .textbold{
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .heading{
+    margin-left: 5%;
+  }
+  @media (max-width: 768px) {
+    .heading {
+      margin-top: 4%;
+      margin-left: 5%;
+      font-size: 18px;
+    }
+   }
+
+   .headinghaj{
+    margin-left: 5%;
+  }
+  @media (max-width: 768px) {
+    .headinghaj {
+      margin-top: 7%;
+      margin-left: 5%;
+      font-size: 18px;
+    }
+   }
+   
+  
+.umrah1{
+    width: 600px;
+    margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah1 {
+    width: 250px;
+    margin-top: 5%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+
+ @media (max-width: 768px) {
+  .umrah1res {
+    width: 452px;
+    margin-top: 5%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+
+  .image{
+    text-align: right;
+    width: 474px;
+    height: 285px;
+    display: inline-block;
+    margin-bottom: 181px;
+    margin-left: 58%;
+    margin-top: -50%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('/ihram.jpg') ;
+  }
+
+  @media (max-width: 768px) {
+    .image {
+       margin-top: -428px;
+       display: inline-block;
+       margin-left: 54%;
+       width: 46%;
+       height: 174px;
+       margin-bottom: 378px;
+    }
+   }
+   .umrah2{
+    width: 600px;
+    margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah2 {
+    width: 250px;
+    margin-top: -23%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+  .image1{
+    text-align: right;
+    width: 474px;
+    height: 516px;
+    display: inline-block;
+    margin-bottom: -72px;
+    margin-left: 58%;
+    margin-top: -50%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('/kaabafeatures.jpg') ;
+  }
+  
+  @media (max-width: 768px) {
+    .image1 {
+       margin-top: -337px;
+       display: inline-block;
+       margin-left: 54%;
+       width: 46%;
+       height: 174px;
+       margin-bottom: 378px;
+    }
+   }
+  .umrah3{
+    width: 600px;
+    margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah3 {
+    width: 262px;
+    margin-top: -46%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+  .image2{
+    text-align: right;
+    width: 474px;
+    height: 303px;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-left: 58%;
+    margin-top: -50%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('/hajjq.jpg') ;
+  }
+  
+  @media (max-width: 768px) {
+    .image2 {
+       margin-top: -280px;
+       display: inline-block;
+       margin-left: 55%;
+       width: 46%;
+       height: 174px;
+       margin-bottom: 378px;
+    }
+   }
+  .umrah4{
+    width: 600px;
+    margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah4 {
+    width: 250px;
+    margin-top: 5%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+  .image3{
+    text-align: right;
+    width: 474px;
+    height: 317px;
+    display: inline-block;
+    margin-bottom: -109px;
+    margin-left: 58%;
+    margin-top: -50%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('/mina.jpg') ;
+  }
+  
+  @media (max-width: 768px) {
+    .image3 {
+       margin-top: -172px;
+       display: inline-block;
+       margin-left: 54%;
+       width: 46%;
+       height: 174px;
+       margin-bottom: 378px;
+    }
+   }
+  .umrah5{
+    width: 600px;
+    margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah5 {
+    width: 250px;
+    margin-top: 5%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+  .image4{
+    text-align: right;
+    width: 474px;
+    height: 307px;
+    display: inline-block;
+    margin-bottom: 118px;
+    margin-left: 58%;
+    margin-top: -50%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('/arafat.jpg') ;
+  }
+  
+  @media (max-width: 768px) {
+    .image4 {
+       margin-top: -333px;
+       display: inline-block;
+       margin-left: 55%;
+       width: 46%;
+       height: 174px;
+       margin-bottom: 378px;
+    }
+   }
+  .umrah6{
+    width: 600px;
+    margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah6 {
+    width: 250px;
+    margin-top: -57%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+  .image5{
+    text-align: right;
+    width: 474px;
+    height: 307px;
+    display: inline-block;
+    margin-bottom: 140px;
+    margin-left: 58%;
+    margin-top: -50%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('/rami.jpg') ;
+  }
+  
+  @media (max-width: 768px) {
+    .image5 {
+       margin-top: -307px;
+       display: inline-block;
+       margin-left: 55%;
+       width: 46%;
+       height: 174px;
+       margin-bottom: 378px;
+    }
+   }
+  .umrah7{
+    width: 600px;
+    margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah7 {
+    width: 250px;
+    margin-top: 5%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+.umrah8{
+  width: 600px;
+  margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah8 {
+    width: 250px;
+    margin-top: -78%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+.umrah9{
+  width: 600px;
+  margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah9 {
+    width: 250px;
+    margin-top: 5%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+.umrah10{
+  width: 600px;
+  margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah10 {
+    width: 250px;
+    margin-top: -46%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+.umrah11{
+  width: 600px;
+  margin-left: 11%;
+}
+@media (max-width: 768px) {
+  .umrah11 {
+    width: 250px;
+    margin-top: -53%;
+    margin-left: 1%;
+    font-size: 11px;
+  }
+ }
+  .image6{
+    text-align: right;
+    width: 474px;
+    height: 307px;
+    display: inline-block;
+    margin-bottom:57px;
+    margin-left: 58%;
+    margin-top: -50%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url('/tawaf.jpg') ;
+  }
+  
+  @media (max-width: 768px) {
+    .image6 {
+       margin-top: -264px;
+       display: inline-block;
+       margin-left: 54%;
+       width: 46%;
+       height: 174px;
+       margin-bottom: 378px;
+    }
+   }
